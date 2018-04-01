@@ -136,7 +136,7 @@ h2 {
    color: #ea882e
 }
 
-a.donationButton { /* Nano orange */
+a.donationButton { /* Banano orange */
     background-color: #ea882e;
     color: #f7f7f9;
     padding: 8px 16px;
@@ -150,7 +150,7 @@ a.donationButton { /* Nano orange */
 
 
 
-input[type=number] { /* Nano orange */
+input[type=number] { /* Banano orange */
     border: 6px solid #ea882e;
     color: black; 
     width: 20%;

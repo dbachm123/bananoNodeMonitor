@@ -1,8 +1,8 @@
-# Nano Node Monitor
+# Banano Node Monitor
 
 ![GitHub release](https://img.shields.io/github/release/nanotools/nanoNodeMonitor.svg?style=flat-square) [![StyleCI](https://styleci.io/repos/118352667/shield?branch=master)](https://styleci.io/repos/118352667)
 
-Nano Node Monitor is a server-side PHP-based monitor for a Nano node. It connects to a running node via RPC and displays it's status on a simple webpage. Being server-side, it does not expose the RPC interface of the Nano node to the public. 
+Banano Node Monitor is a server-side PHP-based monitor for a Banano node. It connects to a running node via RPC and displays it's status on a simple webpage. Being server-side, it does not expose the RPC interface of the Banano node to the public. 
 
 Here is what it looks like on a desktop computer ...
 
@@ -16,7 +16,7 @@ Here is what it looks like on a desktop computer ...
 
 ## Prerequisites
 
-- Running Nano Node with RPC enabled ([Tutorial](https://github.com/nanocurrency/raiblocks/wiki/Docker-node))
+- Running Banano Node with RPC enabled ([Tutorial](https://github.com/nanocurrency/raiblocks/wiki/Docker-node))
 - Webserver with PHP ([Tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04))
 - PHP-Curl Module
 
@@ -52,14 +52,14 @@ Switch to your installation directory and execute `git pull`.
 
 ## Links
 
-* [Installation Official Nano Node with Docker (Official Nano Repo Wiki)](https://github.com/nanocurrency/raiblocks/wiki/Docker-node)
-* [Installation brianpugh Nano Node with Docker (1NANO)](https://1nano.co/support-the-network/)
+* [Installation Official Banano Node with Docker (Official Banano Repo Wiki)](https://github.com/nanocurrency/raiblocks/wiki/Docker-node)
+* [Installation brianpugh Banano Node with Docker (1NANO)](https://1nano.co/support-the-network/)
 * [brianpugh/raiblocks-docker - Docker Hub](https://hub.docker.com/r/brianpugh/raiblocks-docker/)
 
 
 ## Support
 
-Feel free to change your representative to my Nano node `xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj` to support further decentralization within the Nano network. In case of problems, please send an [issue](https://github.com/nanotools/nanoNodeMonitor/issues). 
+Feel free to change your representative to my Banano node `xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj` to support further decentralization within the Banano network. In case of problems, please send an [issue](https://github.com/nanotools/nanoNodeMonitor/issues). 
 
 Donations are welcome to: [xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj](https://www.nanode.co/account/xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj)
 

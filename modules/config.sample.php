@@ -15,7 +15,7 @@
 // $nanoNodeName = '';
 
 // a welcome message shown on top
-// $welcomeMsg = 'Nano rocks!';
+// $welcomeMsg = 'Banano rocks!';
 
 // coinmarketcap widget
 // market data base and second currency e.g. USD, EUR, BTC, ETH
@@ -29,10 +29,10 @@
 // $cmcVolume = FALSE;
 // $cmcStatsticker = FALSE;
 
-// choice of Nano block explorer ('nanode', 'nanoexplorer', 'nano')
+// choice of Banano block explorer ('nanode', 'nanoexplorer', 'nano')
 // $blockExplorer = 'nanode';
 
-// ----------- Nano Node Variables -----------
+// ----------- Banano Node Variables -----------
 
 // ip address for RPC (default: [::1])
 // $nanoNodeRPCIP   = '[::1]';
@@ -46,7 +46,7 @@
 // donation account for maintaining this node
 // $nanoDonationAccount = 'xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj';
 
-// number of decimal places to display Nano balances, i.e. 
+// number of decimal places to display Banano balances, i.e. 
 // $nanoNumDecimalPlaces = 2;
 
 // ----------- Monitoring -----------

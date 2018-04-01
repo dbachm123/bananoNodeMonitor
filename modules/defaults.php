@@ -27,10 +27,10 @@ $cmcMarketcap = FALSE;
 $cmcVolume = FALSE;
 $cmcStatsticker = FALSE;
 
-// choice of Nano block explorer ('nanode', 'nanoexplorer', 'nano')
+// choice of Banano block explorer ('nanode', 'nanoexplorer', 'nano')
 $blockExplorer = 'nanode';
 
-// ----------- Nano Node Variables -----------
+// ----------- Banano Node Variables -----------
 
 // ip address for RPC (default: 127.0.0.1)
 $nanoNodeRPCIP   = '[::1]';
@@ -44,7 +44,7 @@ $nanoNodeAccount = '';
 // donation account for maintaining this node
 $nanoDonationAccount = $nanoNodeAccount;
 
-// number of decimal places to display Nano balances, i.e. 
+// number of decimal places to display Banano balances, i.e. 
 $nanoNumDecimalPlaces = 2;
 
 // ----------- Monitoring -----------

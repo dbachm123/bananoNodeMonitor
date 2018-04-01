@@ -16,7 +16,7 @@ function postCurl($ch, $data)
 
   if (!$resp)
   {
-    myError("Nano node is not running");
+    myError("Banano node is not running");
   }
 
   // JSON decode and return

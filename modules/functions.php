@@ -96,7 +96,7 @@ function getLatestReleaseVersion()
     CURLOPT_CUSTOMREQUEST => "GET",
     CURLOPT_HTTPHEADER => array(
       "cache-control: no-cache",
-      "User-Agent: NanoNodeMonitor"
+      "User-Agent: BananoNodeMonitor"
     ),
   ));
 
@@ -190,7 +190,7 @@ function getNodeUptime($apiKey, $uptimeRatio = 30)
 }
 
 
-// truncate long Nano addresses to display the first and 
+// truncate long Banano addresses to display the first and 
 // last characaters with ellipsis in the center
 function truncateAddress($addr)
 {
