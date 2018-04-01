@@ -26,7 +26,7 @@ Here is what it looks like on a desktop computer ...
 
 In your empty webserver directory, e.g. `/var/www/html`, execute:
 
-    git clone https://github.com/nanotools/nanoNodeMonitor .
+    git clone https://github.com/BananoTools/bananoNodeMonitor .
 
  
 If you want it to run a subdirectory remove the `.` at the end.
@@ -37,14 +37,14 @@ In the `modules` folder, create your own config file by executing:
     cp config.sample.php config.php
 
 
-If you run a standalone node you might need to modify the IP-address and the port for the RPC in the file `config.php`. It should match the corresponding entries in `~/RaiBlocks/config.json`, e.g.
+If you run a standalone node you might need to modify the IP-address and the port for the RPC in the file `config.php`. It should match the corresponding entries in `~/Banano/config.json`, e.g.
 
 ```
 // ip address for RPC (default: [::1])
 $nanoNodeRPCIP   = '127.0.0.1';
 
 // ip address for RPC (default: 7076)
-$nanoNodeRPCPort = '7076';
+$nanoNodeRPCPort = '7072';
 ```
 
 ## Updating
@@ -52,16 +52,14 @@ Switch to your installation directory and execute `git pull`.
 
 ## Links
 
-* [Installation Official Banano Node with Docker (Official Banano Repo Wiki)](https://github.com/nanocurrency/raiblocks/wiki/Docker-node)
-* [Installation brianpugh Banano Node with Docker (1NANO)](https://1nano.co/support-the-network/)
-* [brianpugh/raiblocks-docker - Docker Hub](https://hub.docker.com/r/brianpugh/raiblocks-docker/)
+* [Banano Repo](https://github.com/BananoCoin/banano)
 
 
 ## Support
 
-Feel free to change your representative to my Banano node `xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj` to support further decentralization within the Banano network. In case of problems, please send an [issue](https://github.com/nanotools/nanoNodeMonitor/issues). 
+Feel free to change your representative to my Banano node `ban_3w3k96jibqym7c9cer7web88tbk9uzabx9jtq9iphhwkkqdpnywe8e1gset7` to support further decentralization within the Banano network. In case of problems, please send an [issue](https://github.com/nanotools/nanoNodeMonitor/issues). 
 
-Donations are welcome to: [xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj](https://www.nanode.co/account/xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj)
+Donations are welcome to: [ban_3w3k96jibqym7c9cer7web88tbk9uzabx9jtq9iphhwkkqdpnywe8e1gset7](https://www.nanode.co/account/xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj)
 
 Have fun! :)
 
