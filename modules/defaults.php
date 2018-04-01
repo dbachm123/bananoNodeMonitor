@@ -36,7 +36,7 @@ $blockExplorer = 'nanode';
 $nanoNodeRPCIP   = '[::1]';
 
 // ip address for RPC (default: 7076)
-$nanoNodeRPCPort = '7076';
+$nanoNodeRPCPort = '7072';
 
 // account of this node 
 $nanoNodeAccount = ''; 

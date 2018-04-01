@@ -37,14 +37,14 @@
 // ip address for RPC (default: [::1])
 // $nanoNodeRPCIP   = '[::1]';
 
-// ip address for RPC (default: 7076)
-// $nanoNodeRPCPort = '7076';
+// ip address for RPC (default: 7072)
+// $nanoNodeRPCPort = '7072';
 
 // account of this node 
-// $nanoNodeAccount = 'xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj'; 
+// $nanoNodeAccount = 'ban_381jstcyodrkpdpkywzezjwwhhqoquinoxrg7haf8c8chmqhpb699a1ub55c'; 
 
 // donation account for maintaining this node
-// $nanoDonationAccount = 'xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj';
+// $nanoDonationAccount = 'ban_381jstcyodrkpdpkywzezjwwhhqoquinoxrg7haf8c8chmqhpb699a1ub55c';
 
 // number of decimal places to display Banano balances, i.e. 
 // $nanoNumDecimalPlaces = 2;
