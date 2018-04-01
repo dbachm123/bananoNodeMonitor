@@ -4,14 +4,7 @@
 
 Banano Node Monitor is a server-side PHP-based monitor for a Banano node. It connects to a running node via RPC and displays it's status on a simple webpage. Being server-side, it does not expose the RPC interface of the Banano node to the public. 
 
-Here is what it looks like on a desktop computer ...
-
-![Desktop screenshot](https://i.imgur.com/1k5BCfc.png)
-
-
-... and on a mobile device: 
-
-![Mobile screenshot](https://i.imgur.com/PTSwL69.jpg)
+![Desktop screenshot](https://i.imgur.com/tuecnSK.png)
 
 
 ## Prerequisites
@@ -57,7 +50,7 @@ Switch to your installation directory and execute `git pull`.
 
 ## Support
 
-Feel free to change your representative to my Banano node `ban_3w3k96jibqym7c9cer7web88tbk9uzabx9jtq9iphhwkkqdpnywe8e1gset7` to support further decentralization within the Banano network. In case of problems, please send an [issue](https://github.com/nanotools/nanoNodeMonitor/issues). 
+Feel free to change your representative to my Banano node `ban_3w3k96jibqym7c9cer7web88tbk9uzabx9jtq9iphhwkkqdpnywe8e1gset7` to support further decentralization within the Banano network. In case of problems, please send an [issue](https://github.com/BananoTools/bananoNodeMonitor/issues). 
 
 Donations are welcome to: [ban_3w3k96jibqym7c9cer7web88tbk9uzabx9jtq9iphhwkkqdpnywe8e1gset7](https://www.nanode.co/account/xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj)
 
