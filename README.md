@@ -7,7 +7,7 @@ Banano Node Monitor is a server-side PHP-based monitor for a Banano node. It con
 
 ## Prerequisites
 
-- Running Banano Node with RPC enabled ([Tutorial](https://github.com/nanocurrency/raiblocks/wiki/Docker-node))
+- Running Banano Node using Docker with RPC enabled ([Tutorial](https://github.com/BananoCoin/banano/wiki/Building-the-Bananode-Docker-image)
 - Webserver with PHP ([Tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04))
 - PHP-Curl Module
 
