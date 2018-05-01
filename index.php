@@ -6,8 +6,8 @@ include 'modules/header.php';
 ?>
 <div class="page-header mb-3" id="banner">
   <div class="row">
-    <div class="col-lg-8 col-md-6 col-sm-6">
-      <a href="https://nano.org" target="_blank">
+    <div class="col-lg-12 col-md-9 col-sm-9">
+      <a href="https://banano.co.in" target="_blank">
         <img src="static/img/logo-mini.png" width="220" alt="Banano Logo"/>
       </a>
       <p class="lead mt-2">Banano Node Monitor</p>
