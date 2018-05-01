@@ -205,15 +205,15 @@ function truncateAddress($addr)
 // get a block explorer URL from an account
 function getAccountUrl($account, $blockExplorer)
 {
-  switch ($blockExplorer)
+  //switch ($blockExplorer)
   {
-    case 'nano':
-      return "https://nano.org/en/explore/account/" . $account;
-    case 'nanoexplorer':
-      return "https://nanoexplorer.io/accounts/" . $account;
-    case 'banano':
-      return "https://banano.meltingice.net/explorer/account/" . $account;
-    default:
+    //case 'nano':
+    //  return "https://nano.org/en/explore/account/" . $account;
+    //case 'nanoexplorer':
+    //  return "https://nanoexplorer.io/accounts/" . $account;
+    //case 'banano':
+    //  return "https://banano.meltingice.net/explorer/account/" . $account;
+    //default:
       return "https://banano.meltingice.net/explorer/account/" . $account;
   }
 }
