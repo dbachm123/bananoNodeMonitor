@@ -1,7 +1,5 @@
 # Banano Node Monitor
 
-![GitHub release](https://img.shields.io/github/release/bananotools/bananoNodeMonitor.svg?style=flat-square) [![StyleCI](https://styleci.io/repos/118352667/shield?branch=master)](https://styleci.io/repos/118352667)
-
 Banano Node Monitor is a server-side PHP-based monitor for a Banano node. It connects to a running node via RPC and displays it's status on a simple webpage. Being server-side, it does not expose the RPC interface of the Banano node to the public. 
 
 ![Desktop screenshot](https://i.imgur.com/tuecnSK.png)
