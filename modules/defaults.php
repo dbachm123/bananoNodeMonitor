@@ -28,7 +28,7 @@ $cmcVolume = FALSE;
 $cmcStatsticker = FALSE;
 
 // choice of Banano block explorer ('nanode', 'nanoexplorer', 'nano')
-$blockExplorer = 'nanode';
+$blockExplorer = 'banano';
 
 // ----------- Banano Node Variables -----------
 
