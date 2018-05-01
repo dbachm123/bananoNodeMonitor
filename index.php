@@ -20,9 +20,10 @@ include 'modules/header.php';
       </div>
 
     </div>
-    <div class="col-lg-4 col-md-6 col-sm-6">
+    <!--- <div class="col-lg-4 col-md-6 col-sm-6">
       <?php include 'modules/cmc_widget.php'; ?>
     </div>
+  -->
   </div>
 </div>
 

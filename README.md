@@ -1,6 +1,6 @@
 # Banano Node Monitor
 
-![GitHub release](https://img.shields.io/github/release/nanotools/nanoNodeMonitor.svg?style=flat-square) [![StyleCI](https://styleci.io/repos/118352667/shield?branch=master)](https://styleci.io/repos/118352667)
+![GitHub release](https://img.shields.io/github/release/bananotools/bananoNodeMonitor.svg?style=flat-square) [![StyleCI](https://styleci.io/repos/118352667/shield?branch=master)](https://styleci.io/repos/118352667)
 
 Banano Node Monitor is a server-side PHP-based monitor for a Banano node. It connects to a running node via RPC and displays it's status on a simple webpage. Being server-side, it does not expose the RPC interface of the Banano node to the public. 
 
@@ -50,9 +50,9 @@ Switch to your installation directory and execute `git pull`.
 
 ## Support
 
-Feel free to change your representative to my Banano node `ban_3w3k96jibqym7c9cer7web88tbk9uzabx9jtq9iphhwkkqdpnywe8e1gset7` to support further decentralization within the Banano network. In case of problems, please send an [issue](https://github.com/BananoTools/bananoNodeMonitor/issues). 
+Feel free to change your representative to my Banano node `ban_1kxnxi5zurj6h7dfb87ik6hhu9yo63miyg6q1fjaxgnd1kknr5y5md4xwxoj` to support further decentralization within the Banano network. In case of problems, please send an [issue](https://github.com/dbachm123/bananoNodeMonitor/issues). 
 
-Donations are welcome to: [ban_3w3k96jibqym7c9cer7web88tbk9uzabx9jtq9iphhwkkqdpnywe8e1gset7](https://www.nanode.co/account/xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj)
+Donations are welcome to: [ban_1kxnxi5zurj6h7dfb87ik6hhu9yo63miyg6q1fjaxgnd1kknr5y5md4xwxoj](https://banano.meltingice.net/explorer/account/ban_1kxnxi5zurj6h7dfb87ik6hhu9yo63miyg6q1fjaxgnd1kknr5y5md4xwxoj) and [xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj](https://nano.meltingice.net/explorer/account/xrb_1f56swb9qtpy3yoxiscq9799nerek153w43yjc9atoaeg3e91cc9zfr89ehj)
 
 Have fun! :)
 

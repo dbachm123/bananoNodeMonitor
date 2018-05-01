@@ -16,7 +16,7 @@ function phpCurlAvailable()
 // raw to Mnano
 function rawToMnano($raw, $precision)
 {
-  return number_format(($raw / 1000000000000000000000000000000.0), $precision,'.',',');
+  return number_format(($raw / 100000000000000000000000000000.0), $precision,'.',',');
 }
 
 // get system load average
@@ -211,8 +211,10 @@ function getAccountUrl($account, $blockExplorer)
       return "https://nano.org/en/explore/account/" . $account;
     case 'nanoexplorer':
       return "https://nanoexplorer.io/accounts/" . $account;
+    case 'banano':
+      return "https://banano.meltingice.net/explorer/account/" . $account;
     default:
-      return "https://www.nanode.co/account/" . $account;
+      return "https://banano.meltingice.net/explorer/account/" . $account;
   }
 }
 
